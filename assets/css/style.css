@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .logo a {
-  color: #111111;
+  color: #e03a3c;
 }
 #header .logo a span {
   color: #e03a3c;
@@ -94,12 +94,11 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo img {
   max-height: 40px;
 }
-
 /*--------------------------------------------------------------
 # Get Startet Button
 --------------------------------------------------------------*/
 .get-started-btn {
-  margin-left: 30px;
+  margin-left: 3px;
   background: #e03a3c;
   color: #fff;
   border-radius: 4px;
